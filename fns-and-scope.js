@@ -62,13 +62,14 @@ function welcome(){
 
 //Create a function called myName that returns your name
 
-  //Code Here
-  
-
+function myName(fName,lName){
+  return fName+" "+lName;
+};  
+myName("Melody","Rosado");
 
 //Now save the function definition of myName into a new variable called newMyName
 
-  //Code Here
+var newMyName = ;
 
 //Now alert the result of invoking newMyName
 
